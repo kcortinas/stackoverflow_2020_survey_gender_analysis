@@ -1,5 +1,5 @@
 # Stack Overflow Developer Survey 2020 - Women in Data Science
-Gender analysis using Stack Overflow 2020 Developer Survey
+Gender analysis using the Stack Overflow 2020 Developer Survey data
 
 ### Table of Contents
 
