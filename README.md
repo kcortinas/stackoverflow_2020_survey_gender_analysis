@@ -29,7 +29,7 @@ The goal of this analysis is to understand diversity in Data Science and assess 
 The notebook *Survey_2020_Women_in_Data_Science.ipynb* contains the full analysis addressing the questions above.
 
 ## Results <a name="results"></a>
-The main findings from this analysis have been summarised here.
+The main findings from this analysis have been summarised [here](https://kcortinaslorenzo.medium.com/whats-holding-women-back-in-data-science-aba856075378).
 
 ## Data Source, Acknowledgements <a name="source"></a>
 Data source: [Stack Overflow Developer Survey 2020](https://insights.stackoverflow.com/survey)
